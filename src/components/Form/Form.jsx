@@ -5,7 +5,7 @@ import {
   InputName,
   InputNumber,
   Button,
-} from "./Forma.styled";
+} from "./Form.styled";
 
 class Form extends Component {
   state = {
